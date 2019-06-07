@@ -5,7 +5,7 @@ Answer these questions, then follow the instructions to submit your first assess
 #### 1. What is a function? Why would you use one?
 this is a random sentence 
 #### 2. What is a method?
-
+message 2 
 #### 3. What are some examples of javascript string methods?
 
 #### 4. Explain the difference between accessor and mutator methods. Why would you use one over the other?
